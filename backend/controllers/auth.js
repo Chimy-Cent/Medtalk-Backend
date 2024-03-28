@@ -1,4 +1,4 @@
-import connect from 'getstream';
+import { connect } from 'getstream';
 import bcrypt from 'bcrypt'
 import { StreamChat } from 'stream-chat';
 // const StreamChat = require('stream-chat').StreamChat;
